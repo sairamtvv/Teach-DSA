@@ -9,4 +9,4 @@ def inttostr(i):
         i = i//10
 
     print(result)
-inttostr(21354)
+inttostr(-21354)
